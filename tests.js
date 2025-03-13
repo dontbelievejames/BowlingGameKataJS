@@ -10,6 +10,6 @@ describe('Array', function () {
       }
 
   it('test gutter game', function () {
-    expect(game.score()).to.equal(1);
+    expect(game.score()).to.equal(0);
   });
 });
