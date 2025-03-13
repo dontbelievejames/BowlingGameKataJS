@@ -1,4 +1,4 @@
-//const { expect } = chai;
+const { expect } = chai;
 
 describe('Array', function () {
     // To do - separate code and test
