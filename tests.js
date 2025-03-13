@@ -9,7 +9,7 @@ describe('Array', function () {
         game.roll(0)
       }
 
-  it('should return -1 when the value is not present', function () {
+  it('test gutter game', function () {
     expect(game.score()).to.equal(1);
   });
 });
