@@ -1,6 +1,6 @@
 const { expect } = chai;
 
-describe('Array', function () {
+describe('Bowling game', function () {
     // To do - separate code and test
     var game = { roll: function(pins) { },
                 score: function() { return 0}}
